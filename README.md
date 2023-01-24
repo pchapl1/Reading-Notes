@@ -5,6 +5,9 @@
 ## Class 201
 ### Foundations of Software Development
 
+day 1 
+day 2
+
 ## Class 301
 ### Intermediate Software Development
 
