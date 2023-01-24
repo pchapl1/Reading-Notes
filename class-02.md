@@ -61,4 +61,3 @@ As we are trying to learn this subject matter, these are some of the building bl
 ### What is the difference between the logical operator && and ||?
     - the && will evalute true only if all the conditions are met.  the || will evaluate true if any of the conditions are met
 
-### 
