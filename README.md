@@ -8,12 +8,12 @@
 #### table of contents 201:
 [day 1](class-01.md) 
 [day 2](class-02.md)
-day 3 
-day 4
-day 5
-day 6
-day 7
-day 8
+[day 3](class-03.md)
+[day 4](class-04.md)
+[day 5](class-05.md)
+[day 6](class-06.md)
+[day 7](class-07.md)
+[day 8](class-08.md)
 
 ## Class 301
 ### Intermediate Software Development
