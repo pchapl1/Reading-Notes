@@ -6,7 +6,7 @@
 ### Foundations of Software Development
 
 #### table of contents 201:
-[day 1](../class-01.md) 
+[day 1](class-01.md) 
 day 2
 day 3 
 day 4
