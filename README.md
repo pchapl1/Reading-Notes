@@ -6,12 +6,14 @@
 ### Foundations of Software Development
 
 #### table of contents 201:
-day 1 
+[day 1](../class-01.md) 
 day 2
 day 3 
 day 4
 day 5
 day 6
+day 7
+day 8
 
 ## Class 301
 ### Intermediate Software Development

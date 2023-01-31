@@ -1,6 +1,5 @@
 ## class 7
 
-this is important to learn because going forward, i think we'll probably be working with objects quite a bit.  Learning a bit about html tables will be extremely useful when we need to display information in a clear and concise way.
 
 ### explain why we need domain modeling
     - to target specific problems.  to keep and store data in an organized fashion
@@ -21,3 +20,6 @@ this is important to learn because going forward, i think we'll probably be work
 
 ### How does the term this differ when used in an object literal versus when used in a constructor?
     - you are binding "this" to the object, and now able to use this in your constructor code
+
+### Explain prototypes and inheritance via an analogy from your previous work experience
+    - 
