@@ -1,3 +1,5 @@
+This is an important topic because as we start to get into more complex projects and logic, we will need to understand better troubleshooting techniques.  Debugging will be a big part of developing
+
 ### Name some key differences between a Syntax Error and a Logic Error.
     - syntax : usually a spelling error or a typo.  syntax errors will also usually be indicated by a red line generated in your ide or text editor
 
