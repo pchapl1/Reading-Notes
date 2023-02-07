@@ -18,6 +18,7 @@
 [day 10](class-10.md)
 [day 11](class-11.md)
 [day 12](class-12.md)
+[day 13](class-13.md)
 
 ## Class 301
 ### Intermediate Software Development
