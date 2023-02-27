@@ -20,9 +20,11 @@
 [day 12](class-12.md)
 [day 13](class-13.md)
 [day 14](class-14.md)
+[day 14 Psychological Safety](class-14-PsychologicalSafety.md)
 
 ## Class 301
 ### Intermediate Software Development
+[day 1](./301/class-01.md) 
 
 ## Class 401
 ### Advanced Software Development
