@@ -26,6 +26,7 @@
 ### Intermediate Software Development
 [day 1](./301/class-01.md) 
 [day 2](./301/class-02.md) 
+[day 3](./301/class-03.md) 
 
 
 ## Class 401

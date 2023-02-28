@@ -1,3 +1,5 @@
+this is all important because we are going to have to pass data from parent component to child and we need a way to manipulate data without changing the original data.  That is the usefulness of state.
+
 ### Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
     - render
 
