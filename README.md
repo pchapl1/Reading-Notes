@@ -25,6 +25,8 @@
 ## Class 301
 ### Intermediate Software Development
 [day 1](./301/class-01.md) 
+[day 2](./301/class-02.md) 
+
 
 ## Class 401
 ### Advanced Software Development
