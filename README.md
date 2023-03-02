@@ -28,6 +28,7 @@
 [day 2](./301/class-02.md) 
 [day 3](./301/class-03.md) 
 [day 4](./301/class-04.md) 
+[day 5](./301/class-05.md) 
 
 
 ## Class 401
